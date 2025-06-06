@@ -2,6 +2,8 @@
 // Exercise 00_03
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
+// first time using c++
+
 #include <iostream>
 
 int main(){
