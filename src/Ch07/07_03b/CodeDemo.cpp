@@ -7,6 +7,8 @@
 #include <string>
 #include <algorithm>
 
+using namespace std;
+
 class Inventory{
 private:
     std::vector<std::string> *items; // Pointer to a vector of items
